@@ -1,7 +1,7 @@
 # BadgeUtil
 Android 不同Launcher添加桌面角标Util
 
-* Android桌面角标的适配确实是非常坑爹的需求。原生系统根本就没有这个功能，国内很多厂家效仿ios都自己定义了该功能。Android程序员就很苦逼，要适配很多机型。建议玩不得以情况下还是不要进行这项工作。
+* Android桌面角标的适配确实是非常坑爹的需求。原生系统根本就没有这个功能，国内很多厂家效仿ios都自己定义了该功能。Android程序员就很苦逼，要适配很多机型。建议万不得已情况下还是不要进行这项工作。
 其实这个功能和手机厂家没有直接的关系，而是和手机当前使用的launcher有直接关系。比如三星的手机我安装Asus桌面，这时候我们就不能适配三星launcher而要去适配华硕launcher。
 * 在开发中主要参考了[ShortcutBadger](https://github.com/leolin310148/ShortcutBadger "ShortcutBadger")，[Badge分析&如何逼死处女座](http://www.jianshu.com/p/0992ff9eeeb6 "Badge分析&如何逼死处女座")
 * 在开发中问题总结
